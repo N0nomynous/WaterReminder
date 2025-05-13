@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaterReminderApp</string>
+    <string name="title_text">Add 250ml</string>
+    <string name="title_text1">Water Reminder</string>
+    <string name="title_text2">0 ml / 2000 ml</string>
+    <string name="water_progress">%1$d ml / %2$d ml</string>
+</resources>
